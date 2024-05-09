@@ -1,0 +1,4 @@
+1 derive 2 shield 3 endorse 
+4 trap 5 broom 6 hand 
+7 transfer 8 hero 9 load
+10 chuckle 11 assault 12 access

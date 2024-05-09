@@ -1,0 +1,1 @@
+SELECT users.FIO_users,courses.name_courses FROM orders LEFT JOIN users ON (orders.id_users=users.id_users) LEFT JOIN courses ON (orders.id_courses=courses.id_courses); 
